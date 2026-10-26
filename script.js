@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const navbar = document.getElementById('navbar');
 
   
+  
   // Toggle mobile menu
   if (hamburger) {
     hamburger.addEventListener('click', () => {
