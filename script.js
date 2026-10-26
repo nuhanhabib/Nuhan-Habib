@@ -17,6 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  
   // Close menu when a link is clicked (mobile)
   navLinks.forEach(link => {
     link.addEventListener('click', (e) => {
